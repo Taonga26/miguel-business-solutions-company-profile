@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taonga26.github.io/miguel-business-solutions-company-profile/sitemap.xml
